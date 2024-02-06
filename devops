@@ -1,0 +1,12 @@
+git init
+git status
+git commit
+git push origin main
+git merge
+git clone
+git --version
+git checkout
+git branch'
+git url
+git username
+yum install git init
